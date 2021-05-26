@@ -6,7 +6,7 @@ echo "\n\nMemory:\n".json_encode($bf->memory);
 
 /**
  * Basic php brainfuck interpreter
- * Can interprete files and commandline arguments
+ * Can interpret files and commandline arguments
  * Call like ./interpreter.php filename
  * or ./interpreter.php '++++++++[->++++++++<]>+.'
  * @copyright Tim Anthony Alexander
