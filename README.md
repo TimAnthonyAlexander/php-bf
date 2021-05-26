@@ -10,7 +10,7 @@ It does not support the `,` operator (yet).
 
 The interpreter can be called like this:
 
-```./interpreter.php codefile.bf```
+```./interpreter.php codefile.bf```\
 ```./interpreter.php '+-><[].'```
 
 If no argument is used, the interpreter will show a hello world example.
